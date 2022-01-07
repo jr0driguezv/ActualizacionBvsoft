@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Configuración de las Preferencias de los Usuarios - Bvsoft, 04/01/2022 03:04 p. m.-->
+<ConfiguracionPorUsuarios>
+    <admin>
+        <Apariencia>Basic</Apariencia>
+        <ColorPaleta>Default</ColorPaleta>
+        <GrupoIconos>0</GrupoIconos>
+        <MaestroEmpleadoTipoVista>C</MaestroEmpleadoTipoVista>
+    </admin>
+</ConfiguracionPorUsuarios>
